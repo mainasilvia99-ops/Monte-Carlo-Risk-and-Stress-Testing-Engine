@@ -1,4 +1,5 @@
 # Monte-Carlo-Risk-and-Stress-Testing-Engine
+
 #  Monte Carlo Simulation for Portfolio Risk & Stress Testing 
 
 This project implements a multi-asset Monte Carlo simulation framework to model portfolio risk under realistic financial conditions.
@@ -42,7 +43,7 @@ Captures:
 
 ---
 
-## 📊 Key Results
+##  Key Results
 
 ### Distribution Characteristics (Mixture Model)
 - Mean: -0.00408  
@@ -64,7 +65,7 @@ Target vs simulated correlations:
 | 1–3  | 0.30   | 0.3016    |
 | 2–3  | 0.40   | 0.4043    |
 
-✔ Confirms accurate Cholesky implementation.
+Confirms accurate Cholesky implementation.
 
 ---
 
@@ -73,7 +74,7 @@ Target vs simulated correlations:
 - Simulated: 51.94  
 - Theoretical: 52.04  
 
-✔ Monte Carlo converges to analytical expectation.
+ Monte Carlo converges to analytical expectation.
 
 ---
 
@@ -126,5 +127,5 @@ Target vs simulated correlations:
 ---
 Built as part of computational finance and financial engineering training.
 
-## 👤 Author
+##  Author
 Maina Silvia
